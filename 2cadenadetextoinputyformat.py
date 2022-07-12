@@ -1,0 +1,5 @@
+print("Ingrese su nombre: ")
+nombre = input()
+print("Ingrese su edad: ")
+edad = input()
+print("Hola {} tienes {} años".format(nombre, edad))
